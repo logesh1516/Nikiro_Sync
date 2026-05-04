@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/logesh1516/Nikiro-Sync/blob/0b888f21e87f5027b42d28b066318988cfc5a2f4/Imgs/homelogo.webp" alt="Nikiro Logo" width="160"/>
+<img src="Imgs/homelogo.webp" alt="Nikiro Logo" width="160"/>
 
 # NIKIRO FLOW
 
